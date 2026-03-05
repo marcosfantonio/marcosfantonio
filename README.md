@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Hi,;I'm+Marcos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Hi there,;I'm+Marcos!)](https://git.io/typing-svg)
 ### I build digital systems, design experiences, and engineer solutions.
 
 I am a Developer and Creative Technologist who believes that **engineering is a mindset**, not just a job description. Whether I'm crafting scalable Kotlin applications, creating a circuit, tuning a combustion engine, or mastering a track, my goal is always the same: precision, performance, and functionality.
